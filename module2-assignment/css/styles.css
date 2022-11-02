@@ -50,10 +50,10 @@ h3{
 .menu{
 	background-color: #83a3be;
 	border: 3px solid black;
-	width: 90%;
+	width: auto;
 	height: auto;
-	margin-right: auto;
-	margin-left: auto;
+	margin-right: 20px;
+	margin-left: 20px;
 	margin-bottom: 30px;
 	position: relative;
 	
