@@ -1,1 +1,41 @@
-body
+body {
+  font-family: 'Oxygen', sans-serif;
+  background-color: #efeeee;
+}
+h2{
+	
+	font-weight: 700;
+}
+h3{
+	font-weight: bold;
+	padding-bottom: 8px;
+}
+a{
+	text-decoration: none;
+}
+p{
+	font-style: italic;
+	}
+
+#top{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.chi{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	padding: 20px;
+	background-color: #ebcfc4;
+}
+.bee{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	padding: 20px;
+	background-color: #d3c4be;
+}
+.sus{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	padding: 20px;
+	background-color: #e4dac2;
+}
